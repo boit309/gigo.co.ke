@@ -11,7 +11,7 @@ const projects = {
       category: "E-Commerce Platform",
 
       description:
-        "Designed and developed a modern multi-store e-commerce platform that enables businesses to showcase products, manage inventory, and provide customers with a seamless online shopping experience.",
+        "**A flagship digital commerce solution developed by EKD TECH in collaboration with GIGO.** The platform empowers businesses to establish a strong online presence through a modern multi-store marketplace featuring product catalog management, inventory control, vendor storefronts, secure shopping experiences, and scalable e-commerce capabilities designed to support business growth and digital transformation.",
 
       technologies: [
         "React",
