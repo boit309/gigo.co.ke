@@ -19,8 +19,8 @@ const navigation = [
   },
   {
     id: 4,
-    label: "Services",
-    path: "/services",
+    label: "Skills",
+    path: "/skills",
     showInNavbar: true,
   },
   {
@@ -31,18 +31,24 @@ const navigation = [
   },
   {
     id: 6,
-    label: "Gallery",
-    path: "/gallery",
+    label: "Services",
+    path: "/services",
     showInNavbar: true,
   },
   {
     id: 7,
-    label: "Certifications",
+    label: "Achievements",
     path: "/certifications",
     showInNavbar: true,
   },
   {
     id: 8,
+    label: "Gallery",
+    path: "/gallery",
+    showInNavbar: false,
+  },
+  {
+    id: 9,
     label: "Contact",
     path: "/contact",
     showInNavbar: true,
