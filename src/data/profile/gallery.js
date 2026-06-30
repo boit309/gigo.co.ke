@@ -29,7 +29,7 @@ const gallery = {
 
       date: "June 2025",
 
-      location: "Kakamega Forest",
+      location: "Golf Hotel Kakamega",
 
       organization: "Golf Hotel Kakamega",
 
