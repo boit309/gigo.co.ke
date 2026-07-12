@@ -35,6 +35,7 @@ const navigation = [
     path: "/services",
     showInNavbar: true,
   },
+
   {
     id: 7,
     label: "Achievements",
@@ -49,6 +50,12 @@ const navigation = [
   },
   {
     id: 9,
+    label: "Payments", 
+    path: "/payments",
+    showInNavbar: true,
+  },
+  {
+    id: 10,
     label: "Contact",
     path: "/contact",
     showInNavbar: true,

@@ -11,9 +11,15 @@ import mpesaQR from "../../assets/payment/mpesa-qr.png";
 export default function Payments() {
   return (
     <section
-      id="payments"
-      className="scroll-mt-24 bg-slate-50 py-20"
+      id="gallery"
+      className="relative overflow-hidden py-24"
     >
+      {/* Background */}
+
+      <div className="absolute inset-0 -z-10">
+        <div className="absolute left-0 top-24 h-80 w-80 rounded-full bg-blue-600/10 blur-[120px]" />
+        <div className="absolute right-0 bottom-0 h-96 w-96 rounded-full bg-cyan-500/10 blur-[150px]" />
+      </div>
       <Container>
         <SectionTitle
           eyebrow="Payments"
