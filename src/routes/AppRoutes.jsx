@@ -10,6 +10,7 @@ import Projects from "../components/sections/Projects";
 import Services from "../components/sections/Services";
 import Contact from "../components/sections/Contact";
 import Gallery from "../components/sections/Gallery";
+import Payments from "../components/sections/Payments";
 
 export default function AppRoutes() {
   return (
@@ -24,6 +25,7 @@ export default function AppRoutes() {
       <Route path="/projects" element={<Projects />} />
       <Route path="/services" element={<Services />} />
       <Route path="/contact" element={<Contact />} />
+      <Route path="/payments" element={<Payments />} />
       <Route path="/gallery" element={<Gallery />} />
 
       {/* 404 */}
