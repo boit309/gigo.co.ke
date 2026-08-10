@@ -50,7 +50,7 @@ const navigation = [
   },
   {
     id: 9,
-    label: "Buy Me Coffee",
+    label: "Patronize",
     path: "/payments",
     showInNavbar: true,
   },
