@@ -39,7 +39,7 @@ export default function Payments() {
             </h3>
 
             <p className="mt-3 text-slate-600">
-              Make your payment using the PayBill details below.
+              Buy me coffee using the PayBill details below.
             </p>
 
             <div className="mt-8 space-y-5">
@@ -94,12 +94,11 @@ export default function Payments() {
             </div>
 
             <h3 className="text-2xl font-bold text-slate-900">
-              Scan & Pay
+              Scan QR to Buy me Coffee
             </h3>
 
             <p className="mt-3 text-slate-600">
-              Open the M-Pesa App and scan the QR code below to complete your
-              payment instantly.
+              Open the M-Pesa App and scan the QR code below to buy me Coffee.
             </p>
 
             <div className="mt-8 flex justify-center">
