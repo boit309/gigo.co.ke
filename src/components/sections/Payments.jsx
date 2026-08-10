@@ -67,7 +67,7 @@ export default function Payments() {
             <div className="mt-8 rounded-2xl border border-green-200 bg-green-50 p-6">
               <h4 className="mb-4 flex items-center gap-2 text-lg font-semibold text-green-700">
                 <Smartphone className="h-5 w-5" />
-                How to Pay
+                Follow the Steps to buy Me Coffee via M-Pesa PayBill
               </h4>
 
               <ol className="space-y-2 text-sm leading-6 text-slate-700">
